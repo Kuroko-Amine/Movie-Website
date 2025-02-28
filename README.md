@@ -18,4 +18,4 @@ A sleek and responsive frontend movie website using **The Movie DB API**.
 ## 📌 Installation (Optional for Developers)  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/Movie-Website.git
+   git clone https://github.com/Kuroko-Amine/Movie-Website.git
